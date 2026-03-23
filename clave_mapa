@@ -1,0 +1,12 @@
+Table.AddColumn(
+    #"Se expandió Attributes.Departamento",
+    "clave_mapa",
+    each Text.Combine(
+        List.RemoveNulls({
+            [Attributes.Departamento.Value],
+            [Attributes.Equipo.Value],
+            [Attributes.ParteDeMaquina.Value]
+        }),
+        " - "
+    )
+)
