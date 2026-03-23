@@ -1,0 +1,77 @@
+Bobina de Tipping
+pointx: 0.39
+pointy: 0.23
+labelx: 0.36
+labely: 0.19
+
+Filtromat
+pointx: 0.74
+pointy: 0.26
+labelx: 0.71
+labely: 0.22
+
+Bajada de Filtro
+pointx: 0.60
+pointy: 0.38
+labelx: 0.57
+labely: 0.34
+
+Escuadra de Colero
+pointx: 0.47
+pointy: 0.42
+labelx: 0.44
+labely: 0.38
+
+Escuadra de Corte
+pointx: 0.66
+pointy: 0.42
+labelx: 0.63
+labely: 0.38
+
+Tambor Separador
+pointx: 0.69
+pointy: 0.50
+labelx: 0.66
+labely: 0.46
+
+Tambor de 1er Corte
+pointx: 0.67
+pointy: 0.58
+labelx: 0.64
+labely: 0.54
+
+Tambor Corte Final
+pointx: 0.46
+pointy: 0.62
+labelx: 0.43
+labely: 0.58
+
+Tambor Inversor
+pointx: 0.32
+pointy: 0.60
+labelx: 0.29
+labely: 0.56
+
+Tambor de Salida
+pointx: 0.27
+pointy: 0.48
+labelx: 0.24
+labely: 0.44
+
+Laser
+pointx: 0.43
+pointy: 0.50
+labelx: 0.40
+labely: 0.46
+
+Mazo
+pointx: 0.54
+pointy: 0.78
+labelx: 0.51
+labely: 0.74
+
+Toma Muestra
+pointx: 0.35
+pointy: 0.82
+labelx: 0.32
+labely: 0.78
