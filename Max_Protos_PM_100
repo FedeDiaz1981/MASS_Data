@@ -1,68 +1,68 @@
 Bobina de Tipping
-pointx: 0.39
-pointy: 0.23
-labelx: 0.36
-labely: 0.19
+pointx: 0.42
+pointy: 0.28
+labelx: 0.39
+labely: 0.24
 
 Filtromat
-pointx: 0.74
-pointy: 0.26
-labelx: 0.71
-labely: 0.22
+pointx: 0.58
+pointy: 0.20
+labelx: 0.55
+labely: 0.16
 
 Bajada de Filtro
-pointx: 0.60
-pointy: 0.38
-labelx: 0.57
-labely: 0.34
+pointx: 0.55
+pointy: 0.34
+labelx: 0.52
+labely: 0.30
 
 Escuadra de Colero
-pointx: 0.47
-pointy: 0.42
-labelx: 0.44
-labely: 0.38
+pointx: 0.46
+pointy: 0.44
+labelx: 0.43
+labely: 0.40
 
 Escuadra de Corte
-pointx: 0.66
-pointy: 0.42
-labelx: 0.63
-labely: 0.38
+pointx: 0.62
+pointy: 0.44
+labelx: 0.59
+labely: 0.40
 
 Tambor Separador
-pointx: 0.69
-pointy: 0.50
-labelx: 0.66
-labely: 0.46
+pointx: 0.64
+pointy: 0.52
+labelx: 0.61
+labely: 0.48
 
 Tambor de 1er Corte
-pointx: 0.67
-pointy: 0.58
-labelx: 0.64
-labely: 0.54
+pointx: 0.64
+pointy: 0.60
+labelx: 0.61
+labely: 0.56
 
 Tambor Corte Final
-pointx: 0.46
+pointx: 0.48
 pointy: 0.62
-labelx: 0.43
+labelx: 0.45
 labely: 0.58
 
 Tambor Inversor
-pointx: 0.32
+pointx: 0.34
 pointy: 0.60
-labelx: 0.29
+labelx: 0.31
 labely: 0.56
 
 Tambor de Salida
-pointx: 0.27
-pointy: 0.48
-labelx: 0.24
-labely: 0.44
+pointx: 0.28
+pointy: 0.50
+labelx: 0.25
+labely: 0.46
 
 Laser
-pointx: 0.43
-pointy: 0.50
-labelx: 0.40
-labely: 0.46
+pointx: 0.44
+pointy: 0.52
+labelx: 0.41
+labely: 0.48
 
 Mazo
 pointx: 0.54
@@ -71,7 +71,7 @@ labelx: 0.51
 labely: 0.74
 
 Toma Muestra
-pointx: 0.35
-pointy: 0.82
-labelx: 0.32
-labely: 0.78
+pointx: 0.30
+pointy: 0.80
+labelx: 0.27
+labely: 0.76
